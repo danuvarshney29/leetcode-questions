@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/danuvarshney29/leetcode-questions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/danuvarshney29/leetcode-questions/tree/master/0056-merge-intervals) |
+| [1550-three-consecutive-odds](https://github.com/danuvarshney29/leetcode-questions/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/danuvarshney29/leetcode-questions/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
 |  |
