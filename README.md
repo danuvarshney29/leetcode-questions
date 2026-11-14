@@ -32,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/danuvarshney29/leetcode-questions/tree/master/1672-richest-customer-wealth) |
+## String
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/danuvarshney29/leetcode-questions/tree/master/0657-robot-return-to-origin) |
+## Simulation
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/danuvarshney29/leetcode-questions/tree/master/0657-robot-return-to-origin) |
 <!---LeetCode Topics End-->
