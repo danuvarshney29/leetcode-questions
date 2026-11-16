@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/danuvarshney29/leetcode-questions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/danuvarshney29/leetcode-questions/tree/master/0056-merge-intervals) |
 | [0682-baseball-game](https://github.com/danuvarshney29/leetcode-questions/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/danuvarshney29/leetcode-questions/tree/master/0704-binary-search) |
 | [1550-three-consecutive-odds](https://github.com/danuvarshney29/leetcode-questions/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/danuvarshney29/leetcode-questions/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/danuvarshney29/leetcode-questions/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/danuvarshney29/leetcode-questions/tree/master/0682-baseball-game) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/danuvarshney29/leetcode-questions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
