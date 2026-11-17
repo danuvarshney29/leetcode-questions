@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/danuvarshney29/leetcode-questions/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/danuvarshney29/leetcode-questions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/danuvarshney29/leetcode-questions/tree/master/0056-merge-intervals) |
 | [0682-baseball-game](https://github.com/danuvarshney29/leetcode-questions/tree/master/0682-baseball-game) |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/danuvarshney29/leetcode-questions/tree/master/0704-binary-search) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/danuvarshney29/leetcode-questions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
